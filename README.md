@@ -1,7 +1,7 @@
 jQuery evenIfHidden
 ===================
 
-Get information about hidden DOM elements
+Get information about hidden DOM elements.
 
 
 Usage
