@@ -4,6 +4,9 @@
  *
  * Copyright 2013 Piotr Olaszewski
  * Released under the MIT license
+ *
+ * !!!IMPORTANT!!!
+ * Not editing styles in callback function (will disappear)
  */
 (function ($) {
     $.fn.evenIfHidden = function (callback) {
