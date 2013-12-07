@@ -1,0 +1,26 @@
+{
+    "name": "even-if-hidden",
+    "version": "1.0.0",
+    "title": "jQuery Even If Hidden",
+    "author": {
+        "name": "Piotr Olaszewski",
+        "url": "http://softol.pl"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    },
+    "description": "Get information about hidden DOM elements",
+    "keywords": [
+        "jquery",
+        "hidden",
+        "dom",
+        "elements",
+        "plugin"
+    ]
+}
