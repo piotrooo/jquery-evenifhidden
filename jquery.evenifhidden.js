@@ -14,7 +14,7 @@
             var _this = $(this);
             var currentStyles = [];
 
-            var hiddenElements = _this.parents().andSelf().filter(':hidden');
+            var hiddenElements = _this.parents().addBack().filter(':hidden');
 
             if (!hiddenElements.length) {
                 callback(_this);
